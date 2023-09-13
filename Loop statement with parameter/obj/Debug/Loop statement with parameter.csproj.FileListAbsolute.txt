@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\bin\Debug\Loop statement with parameter.exe.config
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\bin\Debug\Loop statement with parameter.exe
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\bin\Debug\Loop statement with parameter.pdb
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\obj\Debug\Loop statement with parameter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\obj\Debug\Loop statement with parameter.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\obj\Debug\Loop statement with parameter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\obj\Debug\Loop statement with parameter.exe
+C:\Users\HP\source\repos\Loop statement with parameter\Loop statement with parameter\obj\Debug\Loop statement with parameter.pdb
